@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Convertir Monedas</string>
+    <string name="de">De:</string>
+    <string name="para">Para:</string>
+    <string name="valor">Valor a Convertir:</string>
+    <string name="conversor_monedas">Conversor de monedas</string>
+    <string name="valor_convert">Valor a Convertir</string>
+    <string name="convertir">Convertir</string>
+    <string name="moneda_entrada">Seleccione Moneda de  entrada</string>
+    <string name="moneda_salida">Seleccione Moneda de  salida</string>
+    <string name="equival">Equivalen a  </string>
+    <string name="moneda_salida_entrada">Moneda de salida y entrada son iguales, Cambie una</string>
+    <string-array name="moneda_original">
+        <item>Selecione Moneda</item>
+        <item>Pesos</item>
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Libras Esterlinas</item>
+    </string-array>
+</resources>

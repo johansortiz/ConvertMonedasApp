@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConvertMonedasApp</string>
+    <string name="de">Of:</string>
+    <string name="para">To:</string>
+    <string name="valor">Value to Convert:</string>
+    <string name="conversor_monedas">Currency converter</string>
+    <string name="valor_convert">Value to Convert:</string>
+    <string name="convertir">Convert</string>
+    <string name="moneda_entrada">Select Income currency</string>
+    <string name="moneda_salida">Select Exit Currency</string>
+    <string name="equival">Equivalent to  </string>
+    <string name="moneda_salida_entrada">Input and output currency are the same, please change one</string>
+    <string-array name="moneda_original">
+        <item>Select currency</item>
+        <item>Pesos</item>
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Libras Esterlinas</item>
+    </string-array>
+</resources>
